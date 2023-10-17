@@ -1,7 +1,6 @@
 package ru.kpfu.itis.gr201.ponomarev.dao;
 
 import ru.kpfu.itis.gr201.ponomarev.model.Appointment;
-import ru.kpfu.itis.gr201.ponomarev.model.Service;
 import ru.kpfu.itis.gr201.ponomarev.util.DatabaseConnectionUtil;
 
 import java.sql.*;

@@ -127,6 +127,8 @@
         })
     </script>
 
+    <h1 class="my-3 text-center">Create an appointment</h1>
+
     <p class="alert alert-success m-3" id="success-alert" hidden>
         <i class="bi bi-check" aria-hidden="true"></i>
         Appointment created!
